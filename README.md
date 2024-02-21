@@ -1,10 +1,5 @@
 
-<p align="center">
-    
-
-
-    
-</p>
+![Text](https://github.com/Rahul9198/Rahul9198/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm RAHUL KUMAR VERMA</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right"  alt="coding" width="700" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"/>
